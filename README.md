@@ -6,14 +6,14 @@ Estudiante Runner es un videojuego inspirado en el clásico juego del dinosaurio
 ### Características Principales
 
 - **Personaje Principal:** Un estudiante en lugar de un dinosaurio.
-- **Objetivo: Esquivar malas notas y sobrevivir con 10 vidas.
-- **Puntos de Vida: Cada 100 metros recorridos sumas 1 vida.
-- **Meta para Aprobar: Al llegar a 7 puntos (700 metros), el estudiante puede aprobar la materia.
+- **Objetivo:** Esquivar malas notas y sobrevivir con 10 vidas.
+- **Puntos de Vida:** Cada 100 metros recorridos sumas 1 vida.
+- **Meta para Aprobar:** Al llegar a 7 puntos (700 metros), el estudiante puede aprobar la materia.
 
 ### Futuras Mejores (Opcional)
 
-- **Plataformas y Obstáculos: Agrega plataformas y obstáculos similares a los de Geometry Dash para aumentar la dificultad y la diversión.
-- **Tunear el Juego: Personaliza y mejora el juego con nuevos elementos y desafíos.
+- **Plataformas y Obstáculos:** Agrega plataformas y obstáculos similares a los de Geometry Dash para aumentar la dificultad y la diversión.
+- **Tunear el Juego:** Personaliza y mejora el juego con nuevos elementos y desafíos.
 
 ### Instrucciones de Juego
 
