@@ -1,4 +1,4 @@
-## Salva el semestre (estudiante runner)
+## Run and save (estudiante runner)
 Descripción
 
 Estudiante Runner es un videojuego inspirado en el clásico juego del dinosaurio de Google Chrome que aparece cuando no tienes conexión a Internet. En lugar de un dinosaurio, aquí controlarás a un estudiante que debe esquivar malas notas mientras corre en línea recta. ¡Pon a prueba tus reflejos y ayuda al estudiante a aprobar su materia!
