@@ -19,3 +19,5 @@ Se a creado una plataforma que interactua con la primera version del personaje (
 ### Diagrama UML
 
 ![image](https://github.com/145548109/Video-Juego---POO/assets/166523628/77ad4be9-15d3-4d11-9c55-b9816036d2c4)
+
+###### Para poder abrir el juego debe tener Unity ya que no esta en ejecutable
