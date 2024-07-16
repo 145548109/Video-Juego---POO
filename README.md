@@ -12,9 +12,9 @@ Estudiante Runner es un videojuego inspirado en el clásico juego del dinosaurio
 
 ### Primer Avance
 
-Se a creado una plataforma que interactua con la primera version del personaje (Runner) y algunos obstaculos para esquivar, por le momento cuenta con un puntaje qu aumenta segun el tiempo, pero sera cambiado al futuro. El personaje cuenta con algunas animaciones de correr y saltar y ademas el juego cuenta con una pantalla de reinicio.
+Se a creado una plataforma que interactua con la primera version del personaje (Runner) y algunos obstaculos para esquivar, por el momento cuenta con un puntaje que aumenta segun el tiempo, pero sera cambiado al futuro. El personaje cuenta con algunas animaciones de correr y saltar y ademas el juego cuenta con una pantalla de reinicio.
 
-- **Scripts:** Se a subido el codigo que se usa en el juego para la logica de moviminto de los objectos.
+- **Scripts:** Se a subido el codigo que se usa en el juego para la logica de moviminto de los objetos.
 - **Sprites:** Se agrego al repositorio los sprites usados en el avance.
 
 **LINK del juego en drive:** https://drive.google.com/drive/folders/1CM-wF3LfQ65AcdPDhkodYwZ_PO1wzMHi?usp=sharing 
