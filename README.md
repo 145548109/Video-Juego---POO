@@ -24,6 +24,4 @@ Para poder abrir el juego debe tener Unity ya que no esta en ejecutable
 
 ### Diagrama UML
 
-![image](https://github.com/145548109/Video-Juego---POO/assets/166523628/77ad4be9-15d3-4d11-9c55-b9816036d2c4)
-
-
+![image](https://github.com/user-attachments/assets/80eb1288-c1e0-4251-9e09-efea17ced17b)
