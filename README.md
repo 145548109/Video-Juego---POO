@@ -22,7 +22,8 @@ Se actulizo el diagrama de clases y ademas de musica y arreglo de algunos errore
 **LINK del juego en drive:** https://drive.google.com/drive/folders/1YBUU9pLi4ja0C45VhcGkFCDk3BUevbIa 
 
 #### Ejecucion 
-Penediente 
+
+Abrir la carpeta JuegoEjecutableR&S, y hacer click en RunAndSave.exe
 
 ### Diagrama UML
 
