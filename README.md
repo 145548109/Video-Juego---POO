@@ -23,7 +23,9 @@ Se actulizo el diagrama de clases y ademas de musica y arreglo de algunos errore
 
 #### Ejecucion 
 
-Abrir la carpeta JuegoEjecutableR&S, y hacer click en RunAndSave.exe
+Abrir la carpeta: JuegoEjecutableR&S, y ejecutar el archivo "RunAndSave.exe"
+![image](https://github.com/user-attachments/assets/29c34c92-459f-4488-8ef0-5a4f0338afc9)
+
 
 ### Diagrama UML
 
