@@ -25,7 +25,7 @@ Se a creado una plataforma que interactua con la primera version del personaje (
 
 Se actualizo el diagrama de clases y ademas de musica y arreglo de algunos errores. Correcion de colisiciones y animaciones, reduccion de tamaño y eliminacion de archivos basura o sin importancia, ajuste del sistema de puntuacion para aumentar la dificultad, ya que anteriormente por cada segundo se recibian 10 puntos.
 
-**LINK del juego en drive:** https://drive.google.com/drive/folders/1YBUU9pLi4ja0C45VhcGkFCDk3BUevbIa 
+**LINK del juego en drive:** [https://drive.google.com/drive/folders/1YBUU9pLi4ja0C45VhcGkFCDk3BUevbIa ](https://drive.google.com/drive/folders/1TIZDt-XGNyR0tL85VARTm3fRvl9656Go)
 
 #### Ejecucion 
 
