@@ -8,23 +8,22 @@ Estudiante Runner es un videojuego inspirado en el clásico juego del dinosaurio
 - **Personaje Principal:** Un estudiante en lugar de un dinosaurio.
 - **Objetivo:** Esquivar malas notas y sobrevivir con con una puntuacion mas alta.
 
-- 
 ### Ejecucion del juego 
   1. Debe clonar la carpeta "Juego ejecutable"
   2. luego abrir la carpeta y buscar el ejecutable "Run&Save" de Unity.
   3. Abrir el juego y disfrutar.
      
-pst: El juego no cuenta con interfaz de inicio asi que al abrir el juego empezara en ese momento y tanmpoco cuenta con cierre de ventana.
+pst: Al abrir el juego empezara en ese momento, en caso de morir contamos con un boton de reinicio.
 ### Primer Avance
 
-Se a creado una plataforma que interactua con la primera version del personaje (Runner) y algunos obstaculos para esquivar, por el momento cuenta con un puntaje que aumenta segun el tiempo, pero sera cambiado al futuro. El personaje cuenta con algunas animaciones de correr y saltar y ademas el juego cuenta con una pantalla de reinicio.
+Se a creado una plataforma que interactua con la primera version del personaje (Runner) y algunos obstaculos para esquivar, cuenta con un puntaje que aumenta segun el tiempo. El personaje cuenta con algunas animaciones de correr y saltar y ademas el juego cuenta con una pantalla de reinicio.
 
 - **Scripts:** Se a subido el codigo que se usa en el juego para la logica de moviminto de los objetos.
 - **Sprites:** Se agrego al repositorio los sprites usados en el avance.
-- 
+
 ### Segundo avance
 
-Se actulizo el diagrama de clases y ademas de musica y arreglo de algunos errores. Correcion de colisiciones y animaciones, reduccion de tamaño y eliminacion de archivos basura o sin importancia.
+Se actualizo el diagrama de clases y ademas de musica y arreglo de algunos errores. Correcion de colisiciones y animaciones, reduccion de tamaño y eliminacion de archivos basura o sin importancia, ajuste del sistema de puntuacion para aumentar la dificultad, ya que anteriormente por cada segundo se recibian 10 puntos.
 
 **LINK del juego en drive:** https://drive.google.com/drive/folders/1YBUU9pLi4ja0C45VhcGkFCDk3BUevbIa 
 
@@ -32,7 +31,6 @@ Se actulizo el diagrama de clases y ademas de musica y arreglo de algunos errore
 
 Abrir la carpeta: JuegoEjecutableR&S, y ejecutar el archivo "RunAndSave.exe"
 ![image](https://github.com/user-attachments/assets/29c34c92-459f-4488-8ef0-5a4f0338afc9)
-
 
 ### Diagrama UML
 
