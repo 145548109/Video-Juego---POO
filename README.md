@@ -27,3 +27,19 @@ Penediente
 ### Diagrama UML
 
 ![Imagen de WhatsApp 2024-07-25 a las 22 09 43_2bde9bbb](https://github.com/user-attachments/assets/8eea9f30-7500-479e-8e1d-a152effe772f)
+
+### Sprites usados
+
+**Personaje**
+![Jump](https://github.com/145548109/Video-Juego---POO/assets/166523123/d1a59960-3eb3-48cf-8d48-eaa6caf660f7)
+
+**Fondo (Proximamente)**
+
+![Designer](https://github.com/145548109/Video-Juego---POO/assets/166523123/27e1b5f0-8091-46d9-accc-5b1f150aab22)
+
+**Obstaculos**
+
+![Obstaculo2](https://github.com/145548109/Video-Juego---POO/assets/166523123/55d18621-35ed-42f7-9096-5cb86dfc6932)
+
+![Obstaculo3](https://github.com/145548109/Video-Juego---POO/assets/166523123/2d542df7-19f3-4ee9-afef-835b2f505cff)
+
