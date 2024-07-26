@@ -21,9 +21,6 @@ Se a creado una plataforma que interactua con la primera version del personaje (
 **Personaje**
 ![Jump](https://github.com/145548109/Video-Juego---POO/assets/166523123/d1a59960-3eb3-48cf-8d48-eaa6caf660f7)
 
-**Fondo (Proximamente)**
-
-![Designer](https://github.com/145548109/Video-Juego---POO/assets/166523123/27e1b5f0-8091-46d9-accc-5b1f150aab22)
 
 **Obstaculos**
 
