@@ -21,11 +21,11 @@ Se a creado una plataforma que interactua con la primera version del personaje (
 - **Scripts:** Se a subido el código que se usa en el juego para la lógica de moviminto de los objetos.
 - **Sprites:** Se agrego al repositorio los sprites usados en el avance.
 
- - NOTA: el código usado se encuentra en la carpeta **Scripts** del repositorio, no obstante también podremos acceder a los códigos desde el link de drive, el cual cuenta con todos los archivos del juego (aproximadamente 2 GB), a través de la siguiente ruta: Assets/Scripts.
-
 ### Segundo avance
 
-Se actualizo el diagrama de clases y ademas de agregar música (ruta en drive: Assets/Sonidos) y arreglo de algunos errores. Correción de colisiciones y animaciones, reducción de tamaño y eliminacion de archivos basura o sin importancia, ajuste del sistema de puntuación para aumentar la dificultad, ya que anteriormente por cada segundo se recibian 10 puntos.
+- Se actualizo el diagrama de clases y ademas de agregar música (ruta en drive: Assets/Sonidos) y arreglo de algunos errores. Correción de colisiciones y animaciones, reducción de tamaño y eliminacion de archivos basura o sin importancia, ajuste del sistema de puntuación para aumentar la dificultad, ya que anteriormente por cada segundo se recibian 10 puntos.<br>
+
+NOTA: el código usado se encuentra en la carpeta **Scripts** del repositorio, no obstante también podremos acceder a los códigos desde el link de drive, el cual cuenta con todos los archivos del juego (aproximadamente 2 GB), a través de la siguiente ruta: Assets/Scripts.
 
 **LINK del juego en drive:** [https://drive.google.com/drive/folders/1YBUU9pLi4ja0C45VhcGkFCDk3BUevbIa ](https://drive.google.com/drive/folders/1TIZDt-XGNyR0tL85VARTm3fRvl9656Go)
 
