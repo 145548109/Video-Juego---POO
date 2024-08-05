@@ -34,7 +34,7 @@ Abrir la carpeta: JuegoEjecutableR&S, y ejecutar el archivo "RunAndSave.exe"
 
 ### Diagrama UML ACTUALIZADO
 
-![Screenshot 2024-08-04 141034](https://github.com/user-attachments/assets/4027b1a2-5ce0-456d-9e93-68d53671de60)
+![image](https://github.com/user-attachments/assets/5b499775-72f1-455a-93cb-1cebe10f611c)
 
 ### Sprites usados
 
