@@ -18,7 +18,6 @@ public class Run_0 : MonoBehaviour
         Person1Animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         bool isGrounded = Physics2D. OverlapCircle(groundCheck.position, radius, ground);
