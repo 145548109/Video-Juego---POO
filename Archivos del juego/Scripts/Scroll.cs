@@ -11,7 +11,6 @@ public class Scroll : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void Update()
     {
         transform.Translate(Vector2.left * scrollSpeed * Time.deltaTime);
