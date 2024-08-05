@@ -32,9 +32,9 @@ Se actualizo el diagrama de clases y ademas de musica y arreglo de algunos error
 Abrir la carpeta: JuegoEjecutableR&S, y ejecutar el archivo "RunAndSave.exe"
 ![image](https://github.com/user-attachments/assets/29c34c92-459f-4488-8ef0-5a4f0338afc9)
 
-### Diagrama UML
+### Diagrama UML ACTUALIZADO
 
-![image](https://github.com/user-attachments/assets/3e2d571f-13cd-4faf-af1d-430ab57c0f69)
+![Screenshot 2024-08-04 141034](https://github.com/user-attachments/assets/4027b1a2-5ce0-456d-9e93-68d53671de60)
 
 ### Sprites usados
 
