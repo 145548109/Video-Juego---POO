@@ -8,7 +8,7 @@ Estudiante Runner es un videojuego inspirado en el clásico juego del dinosaurio
 - **Personaje Principal:** Un estudiante en lugar de un dinosaurio.
 - **Objetivo:** Esquivar malas notas y sobrevivir con con una puntuacion mas alta.
 
-### Ejecucion del juego 
+### Ejecución del juego 
   1. Debe clonar la carpeta "Juego ejecutable"
   2. luego abrir la carpeta y buscar el ejecutable "Run&Save" de Unity.
   3. Abrir el juego y disfrutar.
